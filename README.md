@@ -1,4 +1,4 @@
-
+<img src="./dataset/mds.png" alt="Alt text" width="800" />
 # Multi-Dimensional Scaling on MNIST Data
 
 ## Overview
